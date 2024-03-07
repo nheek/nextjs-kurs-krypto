@@ -8,6 +8,7 @@ import {
   ListItemIcon,
   ListItemText,
   ListItemButton,
+  Button,
 } from "@mui/material";
 import { useChangeCurrency } from "src/hooks/useChangeCurrency";
 import { currencies } from "src/crypto/currencies";

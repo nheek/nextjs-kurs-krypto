@@ -9,7 +9,7 @@ const Header: React.FC = () => {
           <Stack direction="row" spacing={2} alignItems="center">
             {/* Her kan du sette inn et ikon for eksempel, https://mui.com/material-ui/material-icons/*/}
             <Typography variant="h6" noWrap>
-              Mitt Krypto Dashboard
+              Nheek Crypto
             </Typography>
           </Stack>
         </Container>
